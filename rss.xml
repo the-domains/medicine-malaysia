@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Medicine Malaysia]]></title>
-        <description><![CDATA[Medicine Malaysia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Creative writing in medicine]]></title>
+        <description><![CDATA[Creative writing in medicine]]></description>
+        <link>https://thegrid.ai/medicine-malaysia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 01:07:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 07:00:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/medicine-malaysia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The sky is the limit]]></title>
+            <description><![CDATA[<article><h1>The sky is the limit</h1><p>Martin Skreli is a man we all love to hate. He raised a drug price by 5,556% and jolted everyone including the Food and Drug Administration (FDA) on drug pricing. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2d1cd83-7107-4a74-9e21-cd01afc9e575.jpg"></article>]]></description>
+            <link>https://thegrid.ai/medicine-malaysia/the-sky-is-the-limit/index.html</link>
+            <guid isPermaLink="false">0cb02e2b-7e6c-4bfe-b4ad-49b468ed7f67</guid>
+            <pubDate>Wed, 24 Feb 2016 06:58:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92fdc0fb-925a-4be3-b17c-7645dd5eaf85.jpg">]]></description>
-            <link>undefined833a0b43-a9e0-4771-9942-9e90f636ac52/index.html</link>
+            <link>https://thegrid.ai/medicine-malaysia/833a0b43-a9e0-4771-9942-9e90f636ac52/index.html</link>
             <guid isPermaLink="false">833a0b43-a9e0-4771-9942-9e90f636ac52</guid>
             <pubDate>Wed, 24 Feb 2016 01:06:03 GMT</pubDate>
         </item>
