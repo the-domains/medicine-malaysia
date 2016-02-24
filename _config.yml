@@ -1,6 +1,6 @@
 name: Medicine Malaysia
 favicon: null
-layout_spectrum: 0.24958
+layout_spectrum: 0
 typography_spectrum: 0.90597
 title: Creative writing in medicine
 cta:
@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#c5a4b0'
     - '#95536c'
-  brandStrength: 0.75
+  brandStrength: 0.375
   lightness: 0.5802176750730723
   saturation: 0.625
   rhythmicContrast: 0.6231000865809619
