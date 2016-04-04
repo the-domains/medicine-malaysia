@@ -1,5 +1,8 @@
+name: Medicine Malaysia
+favicon: null
+layout_spectrum: 0.90537
+typography_spectrum: 0.20939
 title: Creative writing in medicine
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.625
-  brandStrength: 0.375
-  rhythmicContrast: 0.6231000865809619
   brandColors:
     - '#78193d'
     - '#011d59'
     - '#ffffff'
     - '#c5a4b0'
     - '#95536c'
-  lightness: 0.5802176750730723
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Medicine Malaysia
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.90597
-layout_spectrum: 0.697637
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.75
+  rhythmicContrast: 0.75
+purpose: []
